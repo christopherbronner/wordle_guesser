@@ -1,6 +1,6 @@
 # Wordle Guesser
 
-[View the jupyter notebook here](https://github.com/christopherbronner/wordle_guesser/blob/master/wordle_guesser.ipynb)
+[View the jupyter notebook here](https://nbviewer.org/github/christopherbronner/wordle_guesser/blob/master/wordle_guesser.ipynb)
 
 [Wordle](https://www.powerlanguage.co.uk/wordle/) is a popular word guessing game in which the player has six attempts at identifying a hidden 5-letter word. After each guess, the player receives feedback that yields some information about the hidden word.
 
